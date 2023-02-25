@@ -1,2 +1,2 @@
 # smart-contracts-with-Truffle
-Это основные шаги для создания и развертывания смарт-контракта с помощью Truffle. Однако, Truffle предоставляет множество других функций и инструментов, таких как интерактивный консоль, встроенный тестовый фреймворк и т.д. для более продвинутых сценариев разработки смарт-контрактов на блокчейне Ethereum.
+These are the basic steps to create and deploy a smart contract using Truffle. However, Truffle provides many other features and tools such as an interactive console, a built-in test framework, and so on. for more advanced smart contract development scenarios on the Ethereum blockchain.
